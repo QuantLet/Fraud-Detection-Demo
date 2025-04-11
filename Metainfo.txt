@@ -1,0 +1,19 @@
+Name of Quantlet: Fraud Detection
+
+Published in: NN Course
+
+Description: Demonstrates supervised fraud detection using synthetic transaction data. The workflow includes preprocessing, training multiple machine learning classifiers (MLP, Random Forest, XGBoost), and evaluating model performance using classification reports, ROC curves, and feature importance visualizations.
+
+Submitted: 2025-04-11
+
+Keywords: 
+- Fraud detection
+- Supervised learning
+- Classification
+- Neural networks
+- Ensemble methods
+- Feature importance
+
+Author: Siang-Li Jheng
+
+Datafiles: 'Synthetic Data Sampling.csv'
